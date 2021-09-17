@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 27ecd98cf913f4d9f9c1093c7bac0115
+  - enabled: 1
+    path: Assets/Scenes/DefaultScene.unity
+    guid: 1e56de18e20e947598021d9f916d6553
+  - enabled: 1
+    path: Assets/Scenes/DefaultScene02.unity
+    guid: 6c5fa5c592201407a86d60abfc4109ef
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: 1b6f2e4defca1d7408de61f4060f81a7
+  - enabled: 1
+    path: Assets/Scenes/DefaultScene03.unity
+    guid: fb43d9bc094c445b1be499f166381ee9
+  - enabled: 1
+    path: Assets/Scenes/HighScoreScene.unity
+    guid: f8851b913234d8540968c54bac2e7713
+  - enabled: 1
+    path: Assets/Scenes/HowToPlayScene.unity
+    guid: cf475bdc2da5d46489f203e64abfeac8
+  - enabled: 1
+    path: Assets/Scenes/NewDoodleScene.unity
+    guid: e48efe2661a50459cb40cb9f3b10af54
+  - enabled: 1
+    path: Assets/Scenes/ExistingMazes.unity
+    guid: 872b2310824594a33a5a5bbcd88d64ce
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3dbde233d99074c6289134c0d8ca7cab
+  - enabled: 1
+    path: Assets/Scenes/NewDoodleScene.unity
+    guid: e48efe2661a50459cb40cb9f3b10af54
+  - enabled: 1
+    path: Assets/Scenes/GenerateMaze.unity
+    guid: 61db0f7a8103242fb8d598b300b52ffe
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3dbde233d99074c6289134c0d8ca7cab
+  m_configObjects: {}

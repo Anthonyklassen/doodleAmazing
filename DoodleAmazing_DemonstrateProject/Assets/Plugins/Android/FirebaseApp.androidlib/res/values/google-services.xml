@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">1085323926515</string>
+  <string name="google_storage_bucket" translatable="false">doodle-amazing.appspot.com</string>
+  <string name="project_id" translatable="false">doodle-amazing</string>
+  <string name="google_api_key" translatable="false">AIzaSyAj3F-toFKPY2ZuijRAdH4I-UGXkAvtRgE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAj3F-toFKPY2ZuijRAdH4I-UGXkAvtRgE</string>
+  <string name="google_app_id" translatable="false">1:1085323926515:android:41a83e653799a850d21086</string>
+  <string name="default_web_client_id" translatable="false">1085323926515-nhq8nekk7dh0r9flkjl2sm71hisp7crv.apps.googleusercontent.com</string>
+</resources>

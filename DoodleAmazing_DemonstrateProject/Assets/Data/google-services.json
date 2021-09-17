@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1085323926515",
+    "project_id": "doodle-amazing",
+    "storage_bucket": "doodle-amazing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085323926515:android:41a83e653799a850d21086",
+        "android_client_info": {
+          "package_name": "com.TeamDoodle.DoodleAmazing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085323926515-nhq8nekk7dh0r9flkjl2sm71hisp7crv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3F-toFKPY2ZuijRAdH4I-UGXkAvtRgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085323926515-nhq8nekk7dh0r9flkjl2sm71hisp7crv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1085323926515-cj7hdcnb6k9dbcpbc8sfjojjsa55mkde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TeamDoodle.DoodleAmazing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

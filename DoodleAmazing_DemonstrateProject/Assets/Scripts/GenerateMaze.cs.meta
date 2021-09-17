@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a08f7e554f0b248eca5619f0d4066e1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallObject: {fileID: 4194222251743871154, guid: 15f40063577ba44089df26f3f5569735, type: 3}
+  - groundObject: {fileID: 8333716835170350984, guid: f6566c5794de640a58526849ebb89a36, type: 3}
+  - ballObject: {fileID: 9048379161260408771, guid: fe874a910ec3e6242b631038ede2a14b, type: 3}
+  - goalObject: {fileID: 5086335869331564130, guid: 0a3143815623daa4dbe90ad2a2f8c187, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

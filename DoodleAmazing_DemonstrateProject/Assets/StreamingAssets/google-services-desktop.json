@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "1085323926515-cj7hdcnb6k9dbcpbc8sfjojjsa55mkde.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqE_MHIbz01akD4cSHJDe08h720t8vrU"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:1085323926515:ios:792dae614ef84358d21086", 
+        "android_client_info": {
+          "package_name": "com.TeamDoodle.DoodleAmazing"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "doodle-amazing.appspot.com", 
+    "project_id": "doodle-amazing", 
+    "firebase_url": "https://unexisting.fake.database.firebaseio.com", 
+    "project_number": "1085323926515"
+  }
+}
